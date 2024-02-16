@@ -5,7 +5,7 @@
 <a href="https://github.com/ArjunCodesmith"><img title="Github" src="https://img.shields.io/badge/Github-ArjunCodesmith-brightgreen?style=for-the-badge&logo=github"></a>
 </a>
 <p align="center">
-<a href="https://github.com/ArjunCodesmith"><img title="Tool" src="https://img.shields.io/badge/Tool-Termux Junk cleaner-red.svg"></a>
+<a href="https://github.com/ArjunCodesmith"><img title="Tool" src="https://img.shields.io/badge/Tool-Termux Junk Cleaner-red.svg"></a>
 <a href="https://github.com/ArjunCodesmith"><img title="Version" src="https://img.shields.io/badge/Version-0.2.0-yellow.svg"></a>
 <a href="https://github.com/ArjunCodesmith"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-blue.svg"></a>
 </p>
@@ -47,13 +47,6 @@ Choose specific cleanup options tailored to your needs (cached packages, tempora
 
 - #### Detailed Logs:
 The tool generates cleanup details in cleanup_log.txt.
-
-## Running Tests
-
-To run the tool just type `clean` and hit enter.
-
-The script will guide you through selective cleanup options, including cached packages, temporary files, and logs.
-
 
 ## Usage
 Termux Junk Cleaner provides a flexible and user-friendly interface for cleanup operations. You can choose specific cleanup options, or run it interactively for a customized cleanup.
