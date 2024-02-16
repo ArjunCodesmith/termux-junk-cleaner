@@ -48,8 +48,6 @@ Choose specific cleanup options tailored to your needs (cached packages, tempora
 - #### Detailed Logs:
 The tool generates cleanup details in cleanup_log.txt.
 
-    ## Notes
-
 ## Running Tests
 
 To run the tool just type `clean` and hit enter.
