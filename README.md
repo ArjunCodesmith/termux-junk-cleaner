@@ -54,37 +54,37 @@ Termux Junk Cleaner provides a flexible and user-friendly interface for cleanup 
 
 Interactive Mode:
 ```bash
-bash cleaner_script.sh
+./termux-junk-cleaner.sh
 ```
 Help:
 ```bash
-bash cleaner_script.sh -h
+./termux-junk-cleaner.sh -h
 ```
 Clean Cache Files:
 ```bash
-bash cleaner_script.sh -c
+./termux-junk-cleaner.sh -c
 ```
 Clean Cached Packages:
 ```bash
-bash cleaner_script.sh -p
+./termux-junk-cleaner.sh -p
 ```
 Remove Unnecessary Packages:
 ```bash
-bash cleaner_script.sh -n
+./termux-junk-cleaner.sh -n
 ```
 Clean Temporary Files:
 ```bash
-bash cleaner_script.sh -t
+./termux-junk-cleaner.sh -t
 ```
 Clean Temporary Backup Files:
 ```bash
-bash cleaner_script.sh -b
+./termux-junk-cleaner.sh -b
 ```
 Clean Unnecessary Logs:
 ```bash
-bash cleaner_script.sh -l
+./termux-junk-cleaner.sh -l
 ```
 Clean All Types of Junks:
 ```bash
-cleaner_script.sh -a
+./termux-junk-cleaner.sh -a
 ```
