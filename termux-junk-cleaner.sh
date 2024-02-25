@@ -111,8 +111,7 @@ Date: $(date)\e[0m
 }
 
 success_msg() {
-    echo -e "\n\e[40;38;5;83mCleanup completed. Details logged in ${LOG_FILE} \e[0m\n"
-    termux-tts-speak "junks has Cleaned successfully, Thanks for using."
+    echo -e "\n\e[40;38;5;83mCleanup completed. Details logged in ${LOG_FILE} \e[0m\n" 
 }
 # Function to clean all junks
 clean_all() {
