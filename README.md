@@ -26,7 +26,7 @@ cd termux-junk-cleaner
 ```
 - #### Give executable permission to the file
 ```bash
-chmod +x termux-Junk-cleaner.sh
+chmod +x termux-junk-cleaner.sh
 ```
 - #### Run the script:
  ```bash
